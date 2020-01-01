@@ -51,26 +51,3 @@ TBD
 # Pose Detection
 
 TBD
-
-# Data Generation
-
-Tools of data generation, especially for machine learning.
-
-## Rendering image
-
-TBD
-
-## Create Mask
-
-TBD
-
-## Create NOCS
-
-TBD
-
-
-
-
-
-
-
