@@ -1,4 +1,4 @@
-![robot_eye](https://github.com/Robonchu/PythonPerception/blob/master/imgs/robot_eye.png "title_image")
+<img src="https://github.com/Robonchu/PythonPerception/blob/master/imgs/robot_eye.png?raw=true" align="right" width="300" alt="header pic"/>
 
 # PythonPerception
 
